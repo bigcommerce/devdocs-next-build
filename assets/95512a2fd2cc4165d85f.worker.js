@@ -49,7 +49,7 @@
     (r.o = function (t, n) {
       return Object.prototype.hasOwnProperty.call(t, n);
     }),
-    (r.p = '_/assets/'),
+    (r.p = 'assets/'),
     r((r.s = 35));
 })([
   function (t, n, r) {
