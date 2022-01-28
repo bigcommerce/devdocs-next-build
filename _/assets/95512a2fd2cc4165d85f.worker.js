@@ -49,7 +49,7 @@
     (r.o = function (t, n) {
       return Object.prototype.hasOwnProperty.call(t, n);
     }),
-    (r.p = 'devdocs-next-build/_/assets/'),
+    (r.p = '_/assets/'),
     r((r.s = 35));
 })([
   function (t, n, r) {
